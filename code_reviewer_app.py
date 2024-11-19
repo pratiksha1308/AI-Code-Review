@@ -2,7 +2,7 @@ import streamlit as st
 import openai
 
 # Set up OpenAI API Key
-openai.api_key = "AIzaSyAFYzHwjqlSs234x3W5hK8nuOmBNVhBoUE"  # Replace with your API key
+openai.api_key = "Your API Key"  # Replace with your API key
 
 
 # Function to interact with OpenAI API for code review
